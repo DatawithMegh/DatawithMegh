@@ -35,7 +35,7 @@ I'm passionate about turning data into actionable insights that drive decision-m
 - 📬 Email: meghragadwala04@gmail.com  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKr8b8uK2kWRluU/giphy.gif" width="300" alt="Analytics GIF"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU4b3JuOXJhZzFpa3Z3NDZqYTFqaWIzcGR2MmpiY2FjZmxycHRzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1N4w8i2YOJIposEnye/giphy.gif" width="350" alt="Fun Analyst GIF">
 </p>
 
 ---
