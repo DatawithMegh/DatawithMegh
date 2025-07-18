@@ -14,7 +14,7 @@ I'm passionate about turning data into actionable insights that drive decision-m
 - SQL queries and data manipulation using **MySQL**
 - Dashboarding and visualization in **Python (matplotlib, seaborn)**, **Power BI**, and **Tableau**
 - Exploratory Data Analysis (EDA) and statistical methods
-- Cloud basics and tools like **AWS**
+- Cloud basics and tools like **AWS** and **GCP**
 
 ---
 
